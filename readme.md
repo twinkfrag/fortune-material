@@ -8,8 +8,8 @@ puppeteerを使用して、アクセスしたページのレスポンスをそ�
 ## usage
 `node index.mjs`
 
-puppeteerをインストールしていない場合、
-> npx puppeteer browsers install chrome
+puppeteerをインストールしていない場合、  
+`npx puppeteer browsers install chrome`  
 コマンドを実行する必要がある。
 
 ## using
